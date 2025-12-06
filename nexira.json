@@ -1,0 +1,13 @@
+[
+  {
+    "id": "nexira-001",
+    "name": "NEXIRA",
+    "description": "Epic action-adventure game",
+    "version": "1.0.0",
+    "icon": "https://via.placeholder.com/256?text=NEXIRA",
+    "thumbnail": "https://via.placeholder.com/500?text=NEXIRA+Game",
+    "releaseUrl": "https://github.com/Vuscco/myapp-updates/releases/download/v1.0.0/NEXIRA-1.0.0.zip",
+    "executable": "NEXIRA.exe",
+    "size": "2.5GB"
+  }
+]
