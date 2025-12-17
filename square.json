@@ -1,17 +1,27 @@
 [
   {
     "id": "square-001",
-    "name": "Square Jump",
-    "description": "Square Jump Game",
-    "latestVersion": "1.0",
-    "releaseUrl": "https://github.com/Vuscco/myapp-updates/releases/download/SquareJump/SquareJump.zip",
-    "size": "50 MB",
-    "icon": "https://via.placeholder.com/256?text=Square+Jump",
-    "thumbnail": "https://via.placeholder.com/500?text=Square+Jump+Game",
+    "name": "SQUARE JUMP",
+    "description": "You are a Square and you jump over a obstacols",
+    "latestVersion": "1.9",
+    "releaseUrl": "https://github.com/Vuscco/myapp-updates/releases/download/Nexyra/Nexyra.zip",
+    "size": "80 MB",
+    "icon": "https://via.placeholder.com/256?text=NEXIRA",
+    "thumbnail": "https://via.placeholder.com/500?text=NEXIRA+Game",
     "versions": [
       {
-        "version": "1.0",
-        "releaseDate": "2025-12-17",
+        "version": "1.8",
+        "releaseDate": "2025-12-06",
+        "changes": ""
+      },
+      {
+        "version": "1.7",
+        "releaseDate": "2025-11-30",
+        "changes": ""
+      },
+      {
+        "version": "1.6",
+        "releaseDate": "2025-11-20",
         "changes": ""
       }
     ]
