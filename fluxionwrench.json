@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fluxionwrench-001",
+    "name": "Fluxion Wrench",
+    "description": "Fluxion Wrench Application",
+    "latestVersion": "1.0",
+    "releaseUrl": "https://github.com/Vuscco/myapp-updates/releases/download/FluxionWrench/fluxion.zip",
+    "size": "60 MB",
+    "icon": "https://via.placeholder.com/256?text=Fluxion+Wrench",
+    "thumbnail": "https://via.placeholder.com/500?text=Fluxion+Wrench",
+    "versions": [
+      {
+        "version": "1.0",
+        "releaseDate": "2026-01-10",
+        "changes": ""
+      }
+    ]
+  }
+]
